@@ -1,0 +1,14 @@
+/* src/styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+/* Your custom styles go here */
+
+.card{
+    width: 700px;
+    border: 1px solid black;
+}
+.image{
+    height: 200px;
+    border: 1px solid black;
+}
